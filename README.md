@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👩‍💻 About Me
+Hi there! I'm a **Software Development Engineer in Test (SDET)** with experience in both **manual** and **automation testing**. I am passionate about ensuring **software quality** through effective and efficient testing strategies to deliver high-quality products.
 
-<!--
-**pavankumaroggu31/pavankumaroggu31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Tools and Technologies:</h3>
+<p align="left">
+<h4>Programming Languages:</h4>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<h4>Test Automation Tools:</h4>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
+</a>
+ <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/TaffazulAnsari/images/blob/main/image/cypress-1.svg" alt="cypress" width="40" height="40"/>
+</a>
+
+<a href="https://junit.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/>
+</a>
+<a href="https://mochajs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg" alt="mocha" width="40" height="40"/>
+</a>
+
+<h4>API Testing Tools:</h4>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
+</a>
+<a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/TaffazulAnsari/images/blob/main/image/restassure.png" alt="restassured" width="40" height="40"/>
+</a>
+<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/TaffazulAnsari/images/blob/main/image/jmeter_square.svg" alt="jmeter" width="40" height="40"/>
+</a>
+
+---
+
+## 🌱 Currently Learning
+- **Mobile App Testing**: Working on building mobile test cases for Android apps using **Appium**.
+- **CI/CD Pipeline**: Enhancing skills in **continuous integration** and **deployment** with **Jenkins** and **GitHub Actions**.
+
+---
+
+## 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/pavan-kumar-oggu/)
