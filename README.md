@@ -13,40 +13,17 @@
 
 ## 🛠 Skills
 
-<h3 align="left">Tools and Technologies:</h3>
-<p align="left">
 <h4>Programming Languages:</h4>
-|<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>|
-|<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>|
-<h4>Test Automation Tools:</h4>
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
-</a>
- <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/TaffazulAnsari/images/blob/main/image/cypress-1.svg" alt="cypress" width="40" height="40"/>
-</a>
+  |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width=60> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=60> 
+|:---:|:---:|
 
-<a href="https://junit.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/>
-</a>
-<a href="https://mochajs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg" alt="mocha" width="40" height="40"/>
-</a>
+<h4>Test Automation Tools:</h4>
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width=60> | <img src="https://github.com/TaffazulAnsari/images/blob/main/image/cypress-1.svg" width=60> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width=60> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg" width=60>
+|:---:|:---:|:---:|:---:|
 
 <h4>API Testing Tools:</h4>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
-</a>
-<a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/TaffazulAnsari/images/blob/main/image/restassure.png" alt="restassured" width="40" height="40"/>
-</a>
-<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/TaffazulAnsari/images/blob/main/image/jmeter_square.svg" alt="jmeter" width="40" height="40"/>
-</a>
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width=60> | <img src="https://github.com/TaffazulAnsari/images/blob/main/image/restassure.png" width=60> |<img src="https://github.com/TaffazulAnsari/images/blob/main/image/jmeter_square.svg" width=60>
+|:---:|:---:|:---:|
 
 ---
 
