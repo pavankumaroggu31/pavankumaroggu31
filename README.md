@@ -35,17 +35,10 @@
 
 ---
 
-
-
----
-
 ## 🎓 Certifications
 
 | <img src="https://github.com/pavankumaroggu31/Certifications/blob/main/Pavan%20Kumar%20Oggu%20%20%20%20%20%20%20.jpg" width="40"/> | <img src="https://github.com/pavankumaroggu31/Certifications/blob/main/Pavan%20Kumar%20Oggu%20(1).png" width="40"/> |
 |--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| **Speaking Marathon**                                         | **Project Completion in Cypress**                                              |
-| Issued by Masai                                                                  | Issued by Masai                                                           |
-
 
 ## 🔮 Future Goals
 
