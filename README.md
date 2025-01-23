@@ -8,7 +8,7 @@
 - 🤔 Manual Testing Project for [Thirsty Wine](https://github.com/pavankumaroggu31/Thirsty_Wine_Project_2024)
 - 💬 Ask me about **Testing Strategies, Agile, and Automation Tools**
 - 📫 How to reach me **pavankumaroggu31@gmail.com**
-- ⚡ Know about my [experiences](https://github.com/pavankumaroggu31/resume/blob/main/PavanKumarOggu-SDETQA-aIpD.pdf)
+- ⚡ Here is my [resume](https://github.com/pavankumaroggu31/resume/blob/main/PavanKumarOggu-SDETQA-aIpD.pdf)
 ---
 
 ## 🛠 Skills
