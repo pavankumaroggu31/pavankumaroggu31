@@ -13,14 +13,14 @@
 
 ## 🛠 Skills
 <h4>Programming Languages :rocket </h4>
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width=60> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=60> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width=60/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=60/> |
 
 
 <h4>Test Automation Tools:</h4>
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width=60> | <img src="https://github.com/TaffazulAnsari/images/blob/main/image/cypress-1.svg" width=60> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width=60> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg" width=60> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width=60/> | <img src="https://github.com/TaffazulAnsari/images/blob/main/image/cypress-1.svg" width=60/> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width=60/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg" width=60/> |
 
 <h4>API Testing Tools:</h4>
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width=60> | <img src="https://github.com/TaffazulAnsari/images/blob/main/image/restassure.png" width=60> |<img src="https://github.com/TaffazulAnsari/images/blob/main/image/jmeter_square.svg" width=60> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width=60/> | <img src="https://github.com/TaffazulAnsari/images/blob/main/image/restassure.png" width=60/> |<img src="https://github.com/TaffazulAnsari/images/blob/main/image/jmeter_square.svg" width=60/> |
 
 
 ---
