@@ -1,5 +1,6 @@
 ### Hola, I'm Pavan Kumar Oggu 👋
 
+![LinkedIn cover (1)](https://github.com/user-attachments/assets/ebc922e2-2fa5-483d-ab3f-5e6fc88428a6)
 
 Hi there! I'm a **Software Development Engineer in Test (SDET)** with experience in both **manual** and **automation testing**. I am passionate about ensuring **software quality** through effective and efficient testing strategies to deliver high-quality products.
 
