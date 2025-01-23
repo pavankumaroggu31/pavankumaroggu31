@@ -4,7 +4,7 @@
 
 ## 📚 Projects 
 
-- 🔭 Seleenium Testing Project for [Tutorial Ninja Hackathon](https://github.com/pavankumaroggu31/9269-Tutorials-Ninja-Hackathon)
+- 🔭 Selenium Testing Project for [Tutorial Ninja Hackathon](https://github.com/pavankumaroggu31/9269-Tutorials-Ninja-Hackathon)
 - 👯 Automation Testing Project for [Thirsty Wine](https://github.com/pavankumaroggu31/Thirsty_Wine_Cypress_Project) using Cypress and cucumber 
 - 🤔 Manual Testing Project for [Thirsty Wine](https://github.com/pavankumaroggu31/Thirsty_Wine_Project_2024)
 - 💬 Ask me about **Testing Strategies, Agile, and Automation Tools**
@@ -30,6 +30,19 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width=60/>  <img src="https://github.com/TaffazulAnsari/images/blob/main/image/restassure.png" width=60/>  <img src="https://github.com/TaffazulAnsari/images/blob/main/image/jmeter_square.svg" width=60/> 
 
 ---
+
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/> |
+|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+
+---
+
+## 🎓 Certifications
+
+| <img src="https://github.com/pavankumaroggu31/Certifications/blob/main/Pavan%20Kumar%20Oggu%20%20%20%20%20%20%20.jpg" width="40"/> | <img src="https://github.com/pavankumaroggu31/Certifications/blob/main/Pavan%20Kumar%20Oggu%20(1).png" width="40"/> |
+|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| **Speaking Marathon**                                         | **Project Completion in Cypress**                                              |
+| Issued by Masai                                                                  | Issued by Masai                                                           |
+
 
 ## 🔮 Future Goals
 
