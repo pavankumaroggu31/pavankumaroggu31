@@ -22,14 +22,14 @@
 
 ---
 
-### Test Automation Tools
-| | | | |
+### Test Automation Tools :fire
+|..|..|..|..|
 |---------------------------------------------------|-------------------------------------------------|------------------------------------------------|------------------------------------------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width=60/> | <img src="https://github.com/TaffazulAnsari/images/blob/main/image/cypress-1.svg" width=60/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width=60/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg" width=60/> |
 
 ---
 
-### API Testing Tools
+### API Testing Tools 🌟
 | |  |  |
 |---------------------------------------------------|-------------------------------------------------|------------------------------------------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width=60/> | <img src="https://github.com/TaffazulAnsari/images/blob/main/image/restassure.png" width=60/> | <img src="https://github.com/TaffazulAnsari/images/blob/main/image/jmeter_square.svg" width=60/> |
