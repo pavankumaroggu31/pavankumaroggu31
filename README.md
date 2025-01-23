@@ -2,8 +2,13 @@
 
 ![LinkedIn cover (1)](https://github.com/user-attachments/assets/ebc922e2-2fa5-483d-ab3f-5e6fc88428a6)
 
-Hi there! I'm a **Software Development Engineer in Test (SDET)** with experience in both **manual** and **automation testing**. I am passionate about ensuring **software quality** through effective and efficient testing strategies to deliver high-quality products.
-
+- 🔭 [Tutorial Ninja Hackathon](https://github.com/pavankumaroggu31/9269-Tutorials-Ninja-Hackathon)
+- 🌱 I’m currently learning **Selenium**
+- 👯 Automation Testing Project for [Thirsty Wine](https://github.com/pavankumaroggu31/Thirsty_Wine_Cypress_Project) using Cypress and cucumber 
+- 🤔 Manual Testing Project for [Thirsty Wine](https://github.com/pavankumaroggu31/Thirsty_Wine_Project_2024)
+- 💬 Ask me about **Testing Strategies, Agile, and Automation Tools**
+- 📫 How to reach me **pavankumaroggu31@gmail.com**
+- ⚡ Know about my [experiences](https://github.com/pavankumaroggu31/resume/blob/main/PavanKumarOggu-SDETQA-aIpD.pdf)
 ---
 
 ## 🛠 Skills
