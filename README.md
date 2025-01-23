@@ -1,4 +1,5 @@
 ### Hola, I'm Pavan Kumar Oggu 👋
+Dynamic SDET with expertise in manual and automation testing using Cypress and Selenium. Proficient in creating and executing test plans, test cases, and scripts, and ensuring quality through detailed documentation. Skilled in API testing with Postman and RestAssured, with a passion for adapting to new technologies and enhancing testing processes.
 
 ![LinkedIn cover (1)](https://github.com/user-attachments/assets/ebc922e2-2fa5-483d-ab3f-5e6fc88428a6)
 
@@ -42,7 +43,7 @@
 
 ## 🔮 Future Goals
 
-As I have now completed my journey in **Autmation Testing**, I am excited to dive into **Mobile Testing** with tools like **Apium**. My goal is to build robust automated frameworks for web and mobile applications in the near future.
+> As I have now completed my journey in **Autmation Testing**, I am excited to dive into **Mobile Testing** with tools like **Apium**. My goal is to build robust automated frameworks for web and mobile applications in the near future.
 ---
 
 ## 🤝 Let's Connect
